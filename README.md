@@ -12,6 +12,10 @@ Build the binary
 Run the binary
 ```./gofindgit <domains_text_file_name>```
 
+Modes:
+- git 
+- env
+
 
 ## Things to do
 To do:
