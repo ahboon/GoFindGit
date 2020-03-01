@@ -1,6 +1,9 @@
 # GoFindGit
-
 Inspired by https://github.com/internetwache/GitTools/blob/master/Finder/gitfinder.py, I decided to write this in Go.
+
+## Note
+Still a work in progress. Not the ideal version yet.
+
 
 # Usage
 Build the binary
