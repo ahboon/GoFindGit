@@ -94,6 +94,8 @@ func main() {
        | |__| | (_) | |__| |  __/ |_| |__| | | |_ 
 	\_____|\___/ \_____|\___|\__|\_____|_|\__|
 											  
+	Get Git and other juicy low hanging fruits...
+	Support/Contribute: https://github.com/ahboon/GoFindGit
 	`
 	fmt.Println(banner)
 	helpertext :=
