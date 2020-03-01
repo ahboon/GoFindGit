@@ -16,6 +16,26 @@ Modes:
 - git 
 - env
 
+# ASCII ARTTTTT
+```
+	 _____        _____      _    _____ _ _   
+	/ ____|      / ____|    | |  / ____(_) |  
+       | |  __  ___ | |  __  ___| |_| |  __ _| |_ 
+       | | |_ |/ _ \| | |_ |/ _ \ __| | |_ | | __|
+       | |__| | (_) | |__| |  __/ |_| |__| | | |_ 
+	\_____|\___/ \_____|\___|\__|\_____|_|\__|
+											  
+	Get Git and other juicy low hanging fruits...
+	Support/Contribute: https://github.com/ahboon/GoFindGit
+Usage:
+	./gofindgit <mode> <domains_text_file_name>
+
+	Modes:
+	- git 
+		Scans for git repo exposed in web root. http://example.com/.git/ OR https://example.com/.git/
+	- env
+		Scans for .env exposed in web root. http://example.com/.env/ OR https://example.com/.env/
+```
 
 ## Things to do
 To do:
